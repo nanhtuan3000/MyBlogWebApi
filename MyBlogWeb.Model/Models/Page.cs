@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using TeduShop.Model.Abstract;
+using MyBlogWeb.Model.Abstract;
 
-namespace TeduShop.Model.Models
+namespace MyBlogWeb.Model.Models
 {
     [Table("Pages")]
     public class Page : Auditable

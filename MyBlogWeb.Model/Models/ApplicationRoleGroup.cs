@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TeduShop.Model.Models
+namespace MyBlogWeb.Model.Models
 {
     [Table("ApplicationRoleGroups")]
     public class ApplicationRoleGroup
